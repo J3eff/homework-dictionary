@@ -1,4 +1,4 @@
-# homework-dictioonary
+# homework-dictionary
 
 Na contagem de votos de uma eleição, são gerados vários registros de votação contendo 
 o nome do candidato e a quantidade de votos (formato .csv) que ele obteve em uma urna de 
